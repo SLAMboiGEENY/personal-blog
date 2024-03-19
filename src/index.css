@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.heroBackground {
+  background-image: url('../src/assets/images/jews.jpg');
+  background-repeat: no-repeat;
+  
+}
